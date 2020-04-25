@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722420846728",
+    "firebase_url": "https://pushnotificationtest-b7dfa.firebaseio.com",
+    "project_id": "pushnotificationtest-b7dfa",
+    "storage_bucket": "pushnotificationtest-b7dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722420846728:android:bc6c8602a7eceeb8c58f3d",
+        "android_client_info": {
+          "package_name": "com.devigntech.pushnotificationandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722420846728-uhttlebqr97kpnoq0lhtpf8hue3ng4p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRSOm4BDV0uaXvwaP3YhAzqJp9LH4XCQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722420846728-uhttlebqr97kpnoq0lhtpf8hue3ng4p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
